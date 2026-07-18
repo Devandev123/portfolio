@@ -11,9 +11,9 @@ const content = [
         type: "reels", 
         items: [
             { title: "Gym Promotion", desc: "Work edited in After effects and premier pro", url: "assets/videos/vid4.mp4" },
-            { title: "Onam Promotion", desc: "Work done in after effects and coloured in premier pro", url: "assets/videos/vid5.mp4" }
-            { title: "Wedding Page Content", desc: "Work done and coloured in premier pro", url: "assets/videos/vid10.mp4" }
-            { title: "Personal Content", desc: "Edited and coloured in premier pro", url: "assets/videos/vid8.mp4" }
+            { title: "Onam Promotion", desc: "Work done in after effects and coloured in premier pro", url: "assets/videos/vid5.mp4" },
+            { title: "Wedding Page Content", desc: "Work done and coloured in premier pro", url: "assets/videos/vid10.mp4" },
+            { title: "Personal Content", desc: "Edited and coloured in premier pro", url: "assets/videos/vid8.mp4" },
         ] 
     }
 ];
