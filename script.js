@@ -6,9 +6,7 @@ const content = [
     { type: "landscape", title: "Personal Instagram Content", desc: "Edited on premier pro and special effects in after effects", url: "assets/videos/vid6.mp4" },
     { type: "landscape", title: "Personal Travel Reel", desc: "Shot mostly on phone and edited on premier pro", url: "assets/videos/vid9.mp4" },
     { type: "landscape", title: "Personal Instagram Content", desc: "Shot pixel 7 and edited on premier pro", url: "assets/videos/vid7.mp4" },
-
-    
-    // PORTRAIT REELS SECTION (Paired for side-by-side)
+ // PORTRAIT REELS SECTION (Paired for side-by-side)
     { 
         type: "reels", 
         items: [
