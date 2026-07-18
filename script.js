@@ -3,6 +3,10 @@ const content = [
     { type: "landscape", title: "Advertisement For Gym", desc: "Work done with premier pro and capcut", url: "assets/videos/vid1.mp4" },
     { type: "landscape", title: "Travel Video", desc: "Work done in premier pro and shot myself with fujifilm x-m5", url: "assets/videos/vid2.mp4" },
     { type: "landscape", title: "Personal Travel Reel", desc: "Shot mostly on phone and edited on premier pro", url: "assets/videos/vid3.mp4" },
+    { type: "landscape", title: "Personal Instagram Content", desc: "Edited on premier pro and special effects in after effects", url: "assets/videos/vid6.mp4" },
+    { type: "landscape", title: "Personal Travel Reel", desc: "Shot mostly on phone and edited on premier pro", url: "assets/videos/vid9.mp4" },
+    { type: "landscape", title: "Personal Instagram Content", desc: "Shot pixel 7 and edited on premier pro", url: "assets/videos/vid7.mp4" },
+
     
     // PORTRAIT REELS SECTION (Paired for side-by-side)
     { 
@@ -10,6 +14,8 @@ const content = [
         items: [
             { title: "Gym Promotion", desc: "Work edited in After effects and premier pro", url: "assets/videos/vid4.mp4" },
             { title: "Onam Promotion", desc: "Work done in after effects and coloured in premier pro", url: "assets/videos/vid5.mp4" }
+            { title: "Wedding Page Content", desc: "Work done and coloured in premier pro", url: "assets/videos/vid10.mp4" }
+            { title: "Personal Content", desc: "Edited and coloured in premier pro", url: "assets/videos/vid8.mp4" }
         ] 
     }
 ];
